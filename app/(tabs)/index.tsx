@@ -96,7 +96,7 @@ const Page = () => {
 
       
       <View style={styles.details}>
-        <Text style={styles.detailText1}>Normal - 12</Text>
+        <Text style={styles.detailText1}>Normal AbhaySri- 12</Text>
         <View style={styles.verticalLine} />
         <Text style={styles.detailText2}>Failure - 2</Text>
         <View style={styles.verticalLine} />
